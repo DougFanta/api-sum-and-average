@@ -23,3 +23,18 @@ Basta enviar uma requisição do tipo *POST* para o link: http:localhost:3000/su
   "numbers": [1,2,3,4]
 }
 ```
+
+#Testes
+
+Para rodar os testes:
+
+```
+npm test
+```
+
+Verificando cobertura de testes
+
+```
+npm run test:cov
+
+```
